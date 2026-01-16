@@ -37,5 +37,5 @@ for a food delivery mobile application.
 - Clean and minimal layout
 
 ## 🔗 Figma Design Link
-(Add your Figma high-fidelity design link here)
+https://www.figma.com/design/6WIcWMjijrdHUJzNvnGo7J/Food-delivery-app-design?node-id=0-1&t=B8I6yEbpDlC5iVcA-1
 
